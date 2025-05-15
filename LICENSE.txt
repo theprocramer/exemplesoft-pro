@@ -1,1 +1,1 @@
-Users can use this software only for personal purposes, they can share it with others by installing it on their own server, but they can never use it commercially.
+Users may not use this software for personal or commercial purposes, but contributors to this project may use this software for personal use only.
